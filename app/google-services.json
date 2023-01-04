@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792842546225",
+    "project_id": "notecollege-6ec6e",
+    "storage_bucket": "notecollege-6ec6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792842546225:android:178dd4191baecc7dbaf910",
+        "android_client_info": {
+          "package_name": "com.ziaad.notecollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792842546225-bb2kgkdhskfr73dt89gs6rec1k0v8c4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziaad.notecollege",
+            "certificate_hash": "1cf387000a49f0c18e5ff993cf84fd268fd8e31b"
+          }
+        },
+        {
+          "client_id": "792842546225-shiflr0gkmcqsln0080he5hfjqej1j11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg8OOWq6SmFPKL_ZUlwQ71Q-OroM5g3Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792842546225-shiflr0gkmcqsln0080he5hfjqej1j11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
